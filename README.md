@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarlightDi
 - 🌱 I’m currently learning full stack programming
-- 📫 How to reach me ... 26starlightdi@gmail.com
+- 📫 How to reach me ... 26stardev@gmail.com
 
 <!---
 StarlightDi/StarlightDi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
