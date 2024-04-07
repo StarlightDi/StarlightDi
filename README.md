@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StarlightDi
-- 🌱 I’m currently learning full stack programming
+- 🌱 I’m currently employed as a full stack engineer
 - 📫 How to reach me ... 26stardev@gmail.com
 
 <!---
